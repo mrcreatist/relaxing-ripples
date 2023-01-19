@@ -1,8 +1,10 @@
 {
   "name": "Relaxing Ripples",
   "short_name": "Relaxing Ripples",
-  "start_url": "index.html",
-  "scope": "./",
+  "start_url": ".",
+  "theme_color": "#6200ee",
+  "background_color": "#6200ee",
+  "display": "standalone",
   "icons": [
     {
       "src": "images/196.png",
@@ -14,8 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#6200ee",
-  "background_color": "#6200ee",
-  "display": "standalone"
+  ]
 }
